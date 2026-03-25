@@ -1,3 +1,4 @@
 Name: T.Rajyalakshmi
 Course: BSC-Computer Science 
 Git Hub: GitHub is not just place to store code it is global collaboration platform where ideas turn into real software.
+https://github.com/rajyalakshmi21-thotapalli/my-second-repo/blob/main/rajyalakshmi%20devops.txt
